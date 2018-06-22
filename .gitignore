@@ -1,0 +1,7 @@
+node_modules
+.project
+package.json
+package-lock.json
+jquery-1.11.0.js
+.git
+
